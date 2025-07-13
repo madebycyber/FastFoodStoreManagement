@@ -1,0 +1,904 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|e:\\tai lieu hoc tap\\ki 1 nam 4\\fastfoodwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\controllers\\productcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:controllers\\productcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\productcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\productcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\sequencetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\sequencetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\home\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\home\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\data\\fastfoodstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:data\\fastfoodstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\fastfoodwebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:fastfoodwebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\login.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\css\\login.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\jquery-3.4.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\js\\jquery-3.4.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\googlemap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\js\\googlemap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\style.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\css\\style.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64ABF8CB-072A-4F8A-895D-0312F07D1817}|FastFoodWebApp.csproj|solutionrelative:pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController1.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\ProductController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController1.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\ProductController1.cs",
+              "RelativeToolTip": "Controllers\\ProductController1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:17:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:37:21.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:27:17.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:25:03.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:51:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\ProductController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductController1\\Index.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\ProductController1\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductController1\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T01:17:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T01:58:45.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAgwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:58:40.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T10:00:45.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAApwEwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:56:53.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:56:54.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:59:22.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:38:12.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:57:44.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T01:02:49.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:14:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SequenceTracker.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\SequenceTracker.cs",
+              "RelativeDocumentMoniker": "Models\\SequenceTracker.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\SequenceTracker.cs",
+              "RelativeToolTip": "Models\\SequenceTracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:55:40.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\Book.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Book.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\Book.cshtml",
+              "RelativeToolTip": "Views\\Home\\Book.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:32:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Menu.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\Menu.cshtml",
+              "RelativeToolTip": "Views\\Home\\Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T18:07:56.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:20:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:32:16.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "jquery.js",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAEIqAAAAAAAAAAAgwHgqAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T20:52:00.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T18:45:17.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T19:08:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T19:26:25.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T19:26:48.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:56:55.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T20:58:12.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T18:06:57.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:33:37.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Shipping.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Shipping.cs",
+              "RelativeDocumentMoniker": "Models\\Shipping.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Shipping.cs",
+              "RelativeToolTip": "Models\\Shipping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:56:45.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:57:43.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:57:45.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:32:41.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:55:53.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:05:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FastFoodStoreContext.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Data\\FastFoodStoreContext.cs",
+              "RelativeDocumentMoniker": "Data\\FastFoodStoreContext.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Data\\FastFoodStoreContext.cs",
+              "RelativeToolTip": "Data\\FastFoodStoreContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAewBMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:52:35.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:25:11.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:02:29.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "googlemap.js",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\googlemap.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\googlemap.js",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\googlemap.js",
+              "RelativeToolTip": "wwwroot\\js\\googlemap.js",
+              "ViewState": "AQIAAMUBAAAAAAAAAAAWwNcBAAB6AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T09:09:23.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FastFoodWebApp",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\FastFoodWebApp.csproj",
+              "RelativeDocumentMoniker": "FastFoodWebApp.csproj",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\FastFoodWebApp.csproj",
+              "RelativeToolTip": "FastFoodWebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T07:45:04.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AQIAAPIEAAAAAAAAAAAwwCsFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T18:30:33.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "login.scss",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\login.scss",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login.scss",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\login.scss",
+              "RelativeToolTip": "wwwroot\\css\\login.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-23T02:53:18.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "login.css",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "wwwroot\\css\\login.css",
+              "ViewState": "AQIAAEgAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T02:52:38.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T19:40:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T20:53:43.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "jquery-3.4.1.min.js",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\jquery-3.4.1.min.js",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\jquery-3.4.1.min.js",
+              "RelativeToolTip": "wwwroot\\js\\jquery-3.4.1.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-23T02:10:50.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "style.css.map",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\style.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css.map",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\style.css.map",
+              "RelativeToolTip": "wwwroot\\css\\style.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T19:40:31.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAC/JwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T19:40:58.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\font-awesome.min.css",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeToolTip": "wwwroot\\css\\font-awesome.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAB8dwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T19:40:24.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "responsive.css",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\responsive.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\responsive.css",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\css\\responsive.css",
+              "RelativeToolTip": "wwwroot\\css\\responsive.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T19:40:23.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:53:28.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "custom.js",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\custom.js",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "wwwroot\\js\\custom.js",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T09:02:47.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:06:39.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Tai lieu hoc tap\\Ki 1 nam 4\\FastFoodWebApp\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:51:02.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
